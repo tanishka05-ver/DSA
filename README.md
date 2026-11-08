@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/tanishka05-ver/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/tanishka05-ver/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [3689-maximum-total-subarray-value-i](https://github.com/tanishka05-ver/DSA/tree/master/3689-maximum-total-subarray-value-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/tanishka05-ver/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [3689-maximum-total-subarray-value-i](https://github.com/tanishka05-ver/DSA/tree/master/3689-maximum-total-subarray-value-i) |
 ## Game Theory
 |  |
 | ------- |
