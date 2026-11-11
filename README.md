@@ -30,10 +30,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/tanishka05-ver/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/tanishka05-ver/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2126-destroying-asteroids](https://github.com/tanishka05-ver/DSA/tree/master/2126-destroying-asteroids) |
 | [3689-maximum-total-subarray-value-i](https://github.com/tanishka05-ver/DSA/tree/master/3689-maximum-total-subarray-value-i) |
 ## Game Theory
 |  |
 | ------- |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/tanishka05-ver/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
+## String
+|  |
+| ------- |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/tanishka05-ver/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 <!---LeetCode Topics End-->
