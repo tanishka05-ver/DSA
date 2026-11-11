@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/tanishka05-ver/DSA/tree/master/0045-jump-game-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/tanishka05-ver/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/tanishka05-ver/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2126-destroying-asteroids](https://github.com/tanishka05-ver/DSA/tree/master/2126-destroying-asteroids) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/tanishka05-ver/DSA/tree/master/0045-jump-game-ii) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/tanishka05-ver/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/tanishka05-ver/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2126-destroying-asteroids](https://github.com/tanishka05-ver/DSA/tree/master/2126-destroying-asteroids) |
@@ -41,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/tanishka05-ver/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/tanishka05-ver/DSA/tree/master/0045-jump-game-ii) |
 <!---LeetCode Topics End-->
