@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/tanishka05-ver/DSA/tree/master/0045-jump-game-ii) |
+| [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/tanishka05-ver/DSA/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/tanishka05-ver/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/tanishka05-ver/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2126-destroying-asteroids](https://github.com/tanishka05-ver/DSA/tree/master/2126-destroying-asteroids) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/tanishka05-ver/DSA/tree/master/0045-jump-game-ii) |
+| [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/tanishka05-ver/DSA/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/tanishka05-ver/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/tanishka05-ver/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2126-destroying-asteroids](https://github.com/tanishka05-ver/DSA/tree/master/2126-destroying-asteroids) |
@@ -47,4 +49,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/tanishka05-ver/DSA/tree/master/0045-jump-game-ii) |
+| [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/tanishka05-ver/DSA/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 <!---LeetCode Topics End-->
