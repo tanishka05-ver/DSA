@@ -44,10 +44,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/tanishka05-ver/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/tanishka05-ver/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/tanishka05-ver/DSA/tree/master/0045-jump-game-ii) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/tanishka05-ver/DSA/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
+## Hash Table
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/tanishka05-ver/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Backtracking
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/tanishka05-ver/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
